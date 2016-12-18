@@ -1,4 +1,9 @@
 Pun aici niste chestii pe care nu le stiu ca sa nu fie gol
 pun pe mai multe linii
+<<<<<<< HEAD
 inca o linie
 inca o modificare
+=======
+as vrea sa modific linia asta pentru ca pot
+inca o modificare
+>>>>>>> 1c16ac38a83c4c3e9fe76bc9d8f27e8f35ceb566
